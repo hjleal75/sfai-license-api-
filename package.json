@@ -1,0 +1,10 @@
+{
+  "name": "sfai-license-api",
+  "version": "1.0.0",
+  "description": "SFAI OneXcel License Management API — Vercel + Upstash",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
